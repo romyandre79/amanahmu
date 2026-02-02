@@ -1,0 +1,16 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "about": "About",
+        "login_customer": "Login Customer",
+        "join_partner": "Join as Partner"
+    },
+    "hero": {
+        "title1": "Find Trusted Services",
+        "title2": "For Your Needs",
+        "subtitle": "Whatever you need done, consider it done with Amanahmu. The most reliable platform for finding professionals.",
+        "search_placeholder": "What service do you need?",
+        "search_button": "Search"
+    }
+}

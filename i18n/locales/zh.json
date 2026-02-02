@@ -1,0 +1,16 @@
+{
+    "nav": {
+        "home": "首页",
+        "services": "服务",
+        "about": "关于",
+        "login_customer": "客户登录",
+        "join_partner": "加入合作伙伴"
+    },
+    "hero": {
+        "title1": "寻找值得信赖的服务",
+        "title2": "满足您的需求",
+        "subtitle": "无论您需要做什么，Amanahmu 都能搞定。寻找专业人士最可靠的平台。",
+        "search_placeholder": "您需要什么服务？",
+        "search_button": "搜索"
+    }
+}

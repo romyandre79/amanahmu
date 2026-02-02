@@ -1,0 +1,16 @@
+{
+    "nav": {
+        "home": "Beranda",
+        "services": "Layanan",
+        "about": "Tentang",
+        "login_customer": "Masuk Pelanggan",
+        "join_partner": "Gabung Mitra"
+    },
+    "hero": {
+        "title1": "Temukan Layanan Terpercaya",
+        "title2": "Untuk Kebutuhan Anda",
+        "subtitle": "Apapun yang Anda butuhkan, selesaikan dengan Amanahmu. Platform paling andal untuk menemukan profesional.",
+        "search_placeholder": "Layanan apa yang Anda butuhkan?",
+        "search_button": "Cari"
+    }
+}

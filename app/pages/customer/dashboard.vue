@@ -197,6 +197,7 @@ const viewDetails = (request: any) => {
         <div
           v-for="req in filteredRequests"
           :key="req.id"
+          @click="viewDetails(req)"
           class="flex items-center justify-between p-6 border-b border-gray-50 hover:bg-blue-50/30 transition-colors cursor-pointer group"
         >
           <div class="flex items-center gap-5">
@@ -237,7 +238,6 @@ const viewDetails = (request: any) => {
               >{{ req.status }}</span
             >
             <svg
-              @click.stop="viewDetails(req)"
               class="w-5 h-5 text-gray-400 hover:text-primary-600 cursor-pointer"
               fill="none"
               stroke="currentColor"
